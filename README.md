@@ -1,6 +1,6 @@
 <br />
 	<p>
-		<a href="https://youtu.be/4wulhMus5zo align="middle" style="width: 100%;"><img src="https://streamsentials.com/wp-content/uploads/2022/06/EZ-emote.png" align="middle" style="display: block; margin: 0 auto;" width="246" alt="EzEmote" /></a>
+		<a href="https://youtu.be/4wulhMus5zo align=middle style="width: 100%;"><img src="https://streamsentials.com/wp-content/uploads/2022/06/EZ-emote.png" align="middle" style="display: block; margin: 0 auto;" width="246" alt="EzEmote" /></a>
 	</p>
 </div>
 
