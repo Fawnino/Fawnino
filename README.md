@@ -10,6 +10,18 @@
 
 getting spoiled by her love.
 
-<img align ="right" alt="My status" src="https://lanyard.cnrad.dev/api/851270917732171817" height=170 />
-
-<img align="left" alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawnino&layout=compact&theme=dark&count_private=true&langs_count=6" height=170 />
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=Fawnino&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=Fawnino&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding=0;width=75%;">
+      <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/851270917732171817?bg=00000000?radius=280px" />
+    </td>
+  </tr>
+</table>
