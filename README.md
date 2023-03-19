@@ -4,7 +4,7 @@
 
 </div>
 
-- `13 he/they`
+- `13 he/him`
 - discord: `Fawnino#9428`
 - mbti: `istp-t`
 
